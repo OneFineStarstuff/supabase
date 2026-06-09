@@ -28,7 +28,7 @@
     "@ai-sdk/amazon-bedrock": "^3.0.0",
     "@ai-sdk/openai": "^2.0.0",
     "@ai-sdk/provider": "^2.0.0",
-    "@ai-sdk/provider-utils": "^3.0.0",
+    "@ai-sdk/provider-utils": "^4.0.0",
     "@ai-sdk/react": "^2.0.0",
     "@aws-sdk/credential-providers": "^3.804.0",
     "@dagrejs/dagre": "^1.0.4",
@@ -91,7 +91,7 @@
     "immutability-helper": "^3.1.1",
     "ip-num": "^1.5.1",
     "json-logic-js": "^2.0.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "lucide-react": "^0.436.0",
     "markdown-table": "^3.0.3",
     "memoize-one": "^5.0.1",
@@ -139,7 +139,7 @@
     "ui": "workspace:*",
     "ui-patterns": "workspace:*",
     "use-debounce": "^7.0.1",
-    "uuid": "^9.0.1",
+    "uuid": "^14.0.0",
     "valtio": "catalog:",
     "yup": "^1.4.0",
     "yup-password": "^0.3.0",
@@ -194,7 +194,7 @@
     "jsdom-testing-mocks": "^1.13.1",
     "msw": "^2.3.0",
     "next-router-mock": "^0.9.13",
-    "postcss": "^8.5.3",
+    "postcss": "^8.5.10",
     "prettier": "3.2.4",
     "raw-loader": "^4.0.2",
     "require-in-the-middle": "^7.5.2",
@@ -203,6 +203,6 @@
     "typescript": "~5.5.0",
     "vite": "catalog:",
     "vite-tsconfig-paths": "^4.3.2",
-    "vitest": "^3.0.5"
+    "vitest": "^3.2.6"
   }
 }
